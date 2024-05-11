@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141083185911-c6o4httkl3akpm2t6pr2bhrsi5i4g361.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141083185911-c6o4httkl3akpm2t6pr2bhrsi5i4g361</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>141083185911-cbkj35ghmbk06i327ejirf322s9gjm6r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCji3da0Fd_h8t_4WeGLZd_rSfI8j18Mi8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141083185911</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.socialmediagamer.redsocial</string>
+	<key>PROJECT_ID</key>
+	<string>social-media-gamer-1afc9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-media-gamer-1afc9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141083185911:ios:78f0b6f1b13d281707f9f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://social-media-gamer-1afc9-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

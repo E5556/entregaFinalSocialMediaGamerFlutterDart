@@ -1,0 +1,1 @@
+ C:\\Users\\e5556\\OneDrive\\Escritorio\\aplicaciones\ moviles\\Agustiniana\\desarrollo\ flutter\\social_media_gamer\\.dart_tool\\flutter_build\\879cbae53e8e788c7f65f161e6cc26c9\\native_assets.yaml: 
